@@ -7,8 +7,9 @@ editor_options:
   chunk_output_type: console
 ---
 
-#Load packages
-```{r}
+### Load packages and data
+
+```r
 library(tidyr)
 library(vegan)
 library(dplyr)
@@ -19,10 +20,9 @@ library(ggrepel)
 
 ```
 
-
-#Load in data
 Data is available in [Dryad](https://doi.org/10.5061/dryad.2v6wwpzjt). 
-```{r}
+
+```r
 
 data.long <- read.csv("CC2018_Biolog Data_12-2-2019 RH.csv")
 uv <- read.csv("CC2018_LD50 Calculator pooled_12-2-2019 RH.csv")
@@ -32,14 +32,11 @@ gro <- read.csv("Growth curve data.csv")
 uv <- uv %>%
   dplyr::select(-X,-Strain.family, -Strain.species, -Flower,-Transect, -se)
 
-
-
-
 ```
 
-# Format data
+### Format data
 Merge row and column into one, remove separate columns
-```{r}
+```r
 
 #remove text columns and filters to include only the carbon assays
 carb.long <- data.long %>%
@@ -54,9 +51,8 @@ chem.long <- data.long %>%
 
 ```
 
-
 Transform data from long to wide to make table with Strain.ID as rows and Assay as columns
-```{r}
+```r
 
 #change carb.long to wide format
 carb.wide <- carb.long %>%
@@ -73,12 +69,12 @@ meta.carb <- carb.wide[,1:6]
 meta.chem <- chem.wide[,1:6]
 
 
-
 ```
 
-# Make nmds plots 
-Carbon
-```{r}
+### Make nmds plots 
+Plot with carbon sources
+
+```r
 
 
 
@@ -160,7 +156,7 @@ ggscatter(data = points, x = "MDS1", y = "MDS2") +
 ```
 
 Chemical NMDS
-```{r}
+```r
 
 
 
@@ -247,7 +243,7 @@ ggscatter(data = points, x = "MDS1", y = "MDS2") +
 
 
 Adding in UV data
-```{r}
+```r
 
 points$uv <- as.numeric(uv$LD50)
 ###only do once! removes data from row 17 (D11) b/c no UV assay
@@ -286,7 +282,7 @@ ggscatter(data = points, x = "MDS1", y = "MDS2") +
 
 ```
 
-```{r}
+```r
 #5-8 combined all traits NMDS
 
 

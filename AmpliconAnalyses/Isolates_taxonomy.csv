@@ -1,0 +1,91 @@
+Bacteria Family,Genus,Species,Flower species,Petal Transect
+Bacillaceae,Bacillus,Bacillus aryabhattai,Verbesina alternifolia,5
+Bacillaceae,Bacillus ,Bacillus megaterium,Helianthus tuberosus,1
+Bacillaceae,Bacillus,Bacillus pumilus,Helianthus tuberosus,3
+Bacillaceae,Exiguobacterium,Exiguobacterium acetylicum,Verbesina alternifolia,3
+Bacillaceae,Exiguobacterium ,Exiguobacterium acetylicum,Verbesina alternifolia,3
+Enterobacteriaceae,Erwinia,Erwinia endophytica,Helianthus tuberosus,1
+Enterobacteriaceae,Kluyvera,Kluyvera intermedia,Verbesina alternifolia,4
+Enterobacteriaceae,Pantoea,Pantoea rodasii,Verbesina alternifolia,5
+Enterobacteriaceae,Pseudescherichia,Pseudescherichia vulneris,Helianthus tuberosus,2
+Enterobacteriaceae,Pseudescherichia,Pseudescherichia vulneris,Helianthus tuberosus,1
+Enterobacteriaceae,Rosenbergiella,Rosenbergiella australiborealis,Helianthus tuberosus,3
+Enterobacteriaceae,Rosenbergiella,Rosenbergiella australiborealis,Helianthus tuberosus,5
+Enterobacteriaceae,Rosenbergiella,Rosenbergiella australiborealis,Helianthus tuberosus,2
+Enterobacteriaceae,Rosenbergiella ,Rosenbergiella australiborealis,Verbesina alternifolia,2
+Enterobacteriaceae,Rosenbergiella,Rosenbergiella australiborealis,Helianthus tuberosus,4
+Enterobacteriaceae,Rosenbergiella ,Rosenbergiella australiborealis,Verbesina alternifolia,3
+Enterobacteriaceae,Rosenbergiella,Rosenbergiella collisarenosi,Verbesina alternifolia,5
+Enterobacteriaceae,Rosenbergiella ,Rosenbergiella collisarenosi,Helianthus tuberosus,5
+Enterobacteriaceae,Rosenbergiella ,Rosenbergiella collisarenosi,Verbesina alternifolia,2
+Enterobacteriaceae,Rosenbergiella ,Rosenbergiella collisarenosi,Verbesina alternifolia,3
+Enterobacteriaceae,Rosenbergiella ,Rosenbergiella collisarenosi,Verbesina alternifolia,3
+Enterobacteriaceae,Rosenbergiella ,Rosenbergiella epipactidis,Helianthus tuberosus,5
+Enterobacteriaceae,Rosenbergiella ,Rosenbergiella epipactidis,Helianthus tuberosus,4
+Enterobacteriaceae,Rosenbergiella ,Rosenbergiella epipactidis,Helianthus tuberosus,4
+Enterobacteriaceae,Rosenbergiella ,Rosenbergiella epipactidis,Helianthus tuberosus,2
+Enterobacteriaceae,Rosenbergiella ,Rosenbergiella epipactidis,Helianthus tuberosus,3
+Enterobacteriaceae,Rosenbergiella ,Rosenbergiella epipactidis,Helianthus tuberosus,3
+Enterobacteriaceae,Rosenbergiella ,Rosenbergiella epipactidis,Verbesina alternifolia,5
+Enterobacteriaceae,Rosenbergiella ,Rosenbergiella epipactidis,Verbesina alternifolia,5
+Enterobacteriaceae,Rosenbergiella ,Rosenbergiella epipactidis,Verbesina alternifolia,1
+Enterobacteriaceae,Rouxiella ,Rouxiella chamberiensis,Helianthus tuberosus,3
+Flavobacteriaceae,Chryseobacterium ,Chryseobacterium greenlandense,Verbesina alternifolia,5
+Methylobacteriaceae,Methylobacterium ,Methylobacterium indicum,Helianthus tuberosus,4
+Microbacteriaceae,Curtobacterium,Curtobacterium flaccumfaciens,Helianthus tuberosus,5
+Microbacteriaceae,Curtobacterium ,Curtobacterium oceanosedimentum,Verbesina alternifolia,5
+Microbacteriaceae,Curtobacterium ,Curtobacterium oceanosedimentum,Verbesina alternifolia,2
+Microbacteriaceae,Curtobacterium ,Curtobacterium oceanosedimentum,Verbesina alternifolia,1
+Microbacteriaceae,Curtobacterium ,Curtobacterium oceanosedimentum,Verbesina alternifolia,2
+Microbacteriaceae,Curtobacterium ,Curtobacterium pusillum,Verbesina alternifolia,1
+Microbacteriaceae,Frigoribacterium ,Frigoribacterium faeni,Helianthus tuberosus,5
+Microbacteriaceae,Frigoribacterium ,Frigoribacterium faeni,Verbesina alternifolia,1
+Microbacteriaceae,Frigoribacterium ,Frigoribacterium faeni,Helianthus tuberosus,3
+Microbacteriaceae,Microbacterium ,Microbacterium oleivorans,Verbesina alternifolia,4
+Microbacteriaceae,Microbacterium ,Microbacterium testaceum,Helianthus tuberosus,4
+Microbacteriaceae,Microbacterium ,Microbacterium testaceum,Helianthus tuberosus,4
+Microbacteriaceae,Microbacterium ,Microbacterium testaceum,Helianthus tuberosus,5
+Microbacteriaceae,Rathayibacter ,Rathayibacter festucae,Verbesina alternifolia,1
+Nocardiaceae,Rhodococcus ,Rhodococcus circidiphylli,Helianthus tuberosus,3
+Nocardiaceae,Rhodococcus ,Rhodococcus circidiphylli,Verbesina alternifolia,1
+Nocardiaceae,Rhodococcus ,Rhodococcus circidiphylli,Verbesina alternifolia,3
+Nocardiaceae,Rhodococcus ,Rhodococcus circidiphylli,Helianthus tuberosus,2
+Nocardiaceae,Rhodococcus ,Rhodococcus circidiphylli,Verbesina alternifolia,3
+Pseudomonadaceae,Pseudomonas,Pseudomonas baetica,Helianthus tuberosus,1
+Pseudomonadaceae,Pseudomonas ,Pseudomonas caricapapayae,Helianthus tuberosus,3
+Pseudomonadaceae,Pseudomonas,Pseudomonas caricapapayae,Helianthus tuberosus,1
+Pseudomonadaceae,Pseudomonas ,Pseudomonas chlororaphis,Verbesina alternifolia,5
+Pseudomonadaceae,Pseudomonas ,Pseudomonas cichorii,Verbesina alternifolia,3
+Pseudomonadaceae,Pseudomonas,Pseudomonas coleopterorum,Helianthus tuberosus,4
+Pseudomonadaceae,Pseudomonas ,Pseudomonas coleopterorum,Helianthus tuberosus,4
+Pseudomonadaceae,Pseudomonas ,Pseudomonas coleopterorum,Verbesina alternifolia,4
+Pseudomonadaceae,Pseudomonas ,Pseudomonas coleopterorum,Helianthus tuberosus,3
+Pseudomonadaceae,Pseudomonas ,Pseudomonas coleopterorum,Helianthus tuberosus,5
+Pseudomonadaceae,Pseudomonas ,Pseudomonas coleopterorum,Verbesina alternifolia,1
+Pseudomonadaceae,Pseudomonas ,Pseudomonas coleopterorum,Helianthus tuberosus,1
+Pseudomonadaceae,Pseudomonas,Pseudomonas coleopterorum,Verbesina alternifolia,4
+Pseudomonadaceae,Pseudomonas,Pseudomonas cremoricolorata,Helianthus tuberosus,5
+Pseudomonadaceae,Pseudomonas ,Pseudomonas cremoricolorata,Helianthus tuberosus,1
+Pseudomonadaceae,Pseudomonas ,Pseudomonas cremoricolorata,Helianthus tuberosus,2
+Pseudomonadaceae,Pseudomonas ,Pseudomonas cremoricolorata,Verbesina alternifolia,2
+Pseudomonadaceae,Pseudomonas ,Pseudomonas cremoricolorata,Helianthus tuberosus,4
+Pseudomonadaceae,Pseudomonas,Pseudomonas cremoricolorata,Verbesina alternifolia,1
+Pseudomonadaceae,Pseudomonas ,Pseudomonas mucidolens,Verbesina alternifolia,2
+Pseudomonadaceae,Pseudomonas ,Pseudomonas oryzihabitans,Helianthus tuberosus,2
+Pseudomonadaceae,Pseudomonas ,Pseudomonas oryzihabitans,Helianthus tuberosus,2
+Pseudomonadaceae,Pseudomonas ,Pseudomonas oryzihabitans,Helianthus tuberosus,2
+Pseudomonadaceae,Pseudomonas ,Pseudomonas oryzihabitans,Helianthus tuberosus,2
+Pseudomonadaceae,Pseudomonas ,Pseudomonas oryzihabitans,Helianthus tuberosus,1
+Pseudomonadaceae,Pseudomonas ,Pseudomonas psychrotolerans,Verbesina alternifolia,2
+Pseudomonadaceae,Pseudomonas ,Pseudomonas psychrotolerans,Helianthus tuberosus,2
+Pseudomonadaceae,Pseudomonas ,Pseudomonas psychrotolerans,Helianthus tuberosus,2
+Pseudomonadaceae,Pseudomonas ,Pseudomonas viridiflava,Verbesina alternifolia,4
+Rhizobiaceae,Rhizobium ,Rhizobium soli,Helianthus tuberosus,5
+Rhizobiaceae,Rhizobium ,Rhizobium soli,Helianthus tuberosus,1
+Rhodobacteraceae,Paracoccus ,Paracoccus marcusi,Helianthus tuberosus,3
+Sphingomonadaceae,Sphingomonas ,Sphingomonas aerolata,Verbesina alternifolia,5
+Sphingomonadaceae,Sphingomonas ,Sphingomonas kyungheensis,Helianthus tuberosus,4
+Xanthomonadaceae,Stenotrophomonas ,Stenotrophomonas chelatiphaga,Verbesina alternifolia,4
+Xanthomonadaceae,Stenotrophomonas ,Stenotrophomonas chelatiphaga,Verbesina alternifolia,4
+Xanthomonadaceae,Stenotrophomonas ,Stenotrophomonas maltophilia,Verbesina alternifolia,5
+Xanthomonadaceae,Stenotrophomonas ,Stenotrophomonas tumulicola,Verbesina alternifolia,3

@@ -5,13 +5,13 @@ date: "26/11/2019"
 output: html_document
 ---
 Load packages
-```{r}
+```r
 library(tidyr)
 library(dplyr)
 ```
 
 Open files
-```{r}
+```r
 #1. Write your pathway to files
 setwd("C:/Users/rah10/Dropbox/Flower-microbe Color Curiculum Dev/Analyses/Biolog/Input/")
 
@@ -30,7 +30,7 @@ strain_list <- read_xlsx("C:/Users/rah10/Dropbox/Flower-microbe Color Curiculum 
 ```
 
 Function to read each file and transform into long table and calculate standarized value
-```{r}
+```r
 # Create dataframe
 data_all=c("A","13",0,"DELETE","DELETE",0)
 
@@ -59,7 +59,7 @@ data_all$abs550=as.numeric(data_all$abs550)
 ```
 
 Change format to match carbon sources and merge with carbon file
-```{r}
+```r
 colnames(data_all)[1]="row"
 
 #remove empty 1st row
@@ -75,7 +75,7 @@ head(data_all)
 
 
 merge carbon source and strain data
-```{r}
+```r
 data_all_carbon=merge(data_all,carbon)
 
 data_final=merge(strain_list, data_all_carbon)
